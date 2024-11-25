@@ -8,7 +8,7 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center">
+        <footer className="App-footer">
           <small>Coded by Alice Petcu</small>
         </footer>
       </div>

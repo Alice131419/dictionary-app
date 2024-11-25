@@ -5,6 +5,14 @@ body {
 a {
   color: #9f8ffe;
 }
+App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.App header {
+  font-weight: bold;
+  font-size: 30px;
+}
 .App-footer {
   text-align: center;
   margin: 30px 0;

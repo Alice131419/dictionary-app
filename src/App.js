@@ -5,6 +5,9 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
+        <header className="text-center">
+          <em>Dictionary</em>
+        </header>
         <main>
           <Dictionary defaultKeyword="moon" />
         </main>
